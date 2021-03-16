@@ -2,5 +2,7 @@ Este es n mensaje secreto.
 
 aca empieza una nueva historia de git & github.
 
-making a few changes just to test and check somo commads
+making a few changes just to test and check some commads
     git show [file.]
+    git log
+    git diff
