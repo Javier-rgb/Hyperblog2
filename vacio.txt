@@ -1,3 +1,6 @@
 Este es n mensaje secreto.
 
 aca empieza una nueva historia de git & github.
+
+making a few changes just to test and check somo commads
+    git show [file.]
